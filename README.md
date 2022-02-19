@@ -16,10 +16,10 @@ Hint: You may want to use decision trees to give you the most preferable feature
 * After getting your best performing kernel, use this kernel together with your tuned parameters and repeat the prediction but this time using additional features. Compare the model you've just created with the 2-features version.
 
 # Experimental Design
-Experimental design taken Perform your EDA
-Perform any necessary feature engineering
-Check of multicollinearity
-Building a model
+* Experimental design taken Perform your EDA
+* Perform any necessary feature engineering
+* Check of multicollinearity
+* Building a model
               * Approach 1: Decision trees
               * Approach 2: Support Vector Machine
 # Setup/Installation Requirements
