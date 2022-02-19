@@ -20,7 +20,9 @@ Hint: You may want to use decision trees to give you the most preferable feature
 * Perform any necessary feature engineering
 * Check of multicollinearity
 * Building a model
+
               * Approach 1: Decision trees
+              
               * Approach 2: Support Vector Machine
 # Setup/Installation Requirements
 * Google colab
